@@ -36,6 +36,8 @@ export default class SwiperComponent extends Component {
                   },
                   { uri: "https://picsum.photos/1080/1920",
                     dimensions: { width: 1080, height: 1920 } },
+                  { uri: "https://picsum.photos/1080/1920",
+                    dimensions: { width: 1080, height: 1920 } },
               ]}
       />
     );
